@@ -4,4 +4,5 @@ public method() {
 	String = "Manikanta";
 	boolean = true;
 	String = "Vijay";
+	double = 1.8;
 }
