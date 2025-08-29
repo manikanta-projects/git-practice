@@ -6,3 +6,10 @@ public void m2() {
 	boolean = false;
 	
 }
+public void m1() {
+	
+	// JIRA - 102
+	int = 20;
+	String = "Vijay";
+	
+}
